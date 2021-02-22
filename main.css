@@ -380,3 +380,20 @@ h1, h2 {
   margin-left: 10px;
   border: none;
 }
+
+.products-nav {
+  text-align: center;
+  margin-top: 12px;
+}
+
+.products-nav a {
+  display: inline-block;
+  margin-right: 12px;
+  padding-right: 12px;
+  border: none;
+  border-right: 1px solid #ececec;
+}
+
+.products-nav a:last-child {
+  border-right: none;
+}
