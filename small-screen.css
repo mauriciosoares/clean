@@ -1,11 +1,11 @@
 @media (max-width: 800px)
 {
-  .banner-title h1 {
-    font-size: 9vw;
+  .banner-title h1 img {
+    width: 60vh;
   }
 
   .banner {
-    height: 50vh;
+    height: 60vh;
   }
 
   .product-time-options a {
