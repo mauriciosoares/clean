@@ -133,6 +133,11 @@ h1, h2 {
   font-weight: lighter;
 }
 
+.section-title.bold {
+  font-weight: bold;
+  color: #0785e8;
+}
+
 .services-preview {
   text-align: center;
 }
