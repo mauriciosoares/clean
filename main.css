@@ -386,6 +386,8 @@ h1, h2 {
 
 .products-nav {
   text-align: center;
+  max-width: 1070px;
+  margin: auto;
   margin-top: 12px;
 }
 
